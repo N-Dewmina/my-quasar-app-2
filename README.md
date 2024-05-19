@@ -1,6 +1,6 @@
-# ND App (nd-app)
+# Quasar App (n-app)
 
-My Firts App
+A Quasar Project
 
 ## Install the dependencies
 ```bash
